@@ -1,0 +1,27 @@
+{
+  "name": "everytime-queueing-system",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cypress open",
+    "start:bg": "cypress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mye0ngs00/Everytime-queueing-system.git"
+  },
+  "author": "myeongsoo, son",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mye0ngs00/Everytime-queueing-system/issues"
+  },
+  "homepage": "https://github.com/mye0ngs00/Everytime-queueing-system#readme",
+  "devDependencies": {
+    "cypress": "^7.6.0",
+    "eslint": "^7.29.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-cypress": "^2.11.3",
+    "eslint-plugin-import": "^2.23.4"
+  }
+}
